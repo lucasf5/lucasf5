@@ -24,13 +24,6 @@ Fiz parte de diversos projetos durante a graduação e entre eles um projeto de 
 📌Machine Learning
 📌Git e Github
 
-📍Soft skills:
-
-⭐Boa comunicação
-⭐Resiliência
-⭐Trabalho em equipe
-⭐Solução de problemas
-⭐Boa gestão de tempo
 
 <div align="center">
   <a href="https://github.com/lucasf5">
