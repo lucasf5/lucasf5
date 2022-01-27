@@ -1,5 +1,37 @@
 ### 👋 Olá! Eu sou o Lucas Ferreira.
-#### Estudante de Engenharia de Telecomunicações, Desenvolvimento Web e Data Science.
+
+Sou estudante de Sistemas e Mídias Digitais na Universidade Federal do Ceará. 
+Também sou estudante de Engenharia de Software. 
+
+Sou fissurado por novas tecnologias, atualmente tenho conhecimento intermediário em Python, Ciência de Dados, HTML5, CSS3, JavaScript, SQL, Swift, Bootstrap, Git e Github.
+
+Atualmente estudo desenvolvimento IOS na Ioasys;
+Ciência de dados na Dell Lead;
+Java na Dell Lead;
+Desenvolvimento Web na Alura e Udemy.
+
+Fiz parte de diversos projetos durante a graduação e entre eles um projeto de desenvolvimento de software com inteligência artificial na minha bolsa do PIBITI também na Universidade Federal do Ceará.
+
+📍Hard skills:
+
+📌Python
+📌Swift
+📌SQL
+📌HTML5
+📌CSS3
+📌JavaScript
+📌Bootstrap
+📌Machine Learning
+📌Git e Github
+
+📍Soft skills:
+
+⭐Boa comunicação
+⭐Resiliência
+⭐Trabalho em equipe
+⭐Solução de problemas
+⭐Boa gestão de tempo
+
 <div align="center">
   <a href="https://github.com/lucasf5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
