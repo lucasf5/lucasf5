@@ -12,19 +12,6 @@ Desenvolvimento Web na Alura e Udemy.
 
 Fiz parte de diversos projetos durante a graduação e entre eles um projeto de desenvolvimento de software com inteligência artificial na minha bolsa do PIBITI também na Universidade Federal do Ceará.
 
-📍Hard skills:
-
-📌Python
-📌Swift
-📌SQL
-📌HTML5
-📌CSS3
-📌JavaScript
-📌Bootstrap
-📌Machine Learning
-📌Git e Github
-
-
 <div align="center">
   <a href="https://github.com/lucasf5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
