@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasf5&label=Profile%20views&color=0e75b6&style=flat" alt="lucasf5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasf5" alt="lucasf5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasf5-ma&theme=dracula" alt="lucasf5" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/lucasf5/Portifolio)
 
