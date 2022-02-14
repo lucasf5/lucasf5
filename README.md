@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lucasfpnt@gmail.com**
 
-- 📄 Know about my experiences [I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.](I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.)
+- 📄 Know about my experiences [I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
