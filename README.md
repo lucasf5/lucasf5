@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lucasfpnt@gmail.com**
 
-- 📄 Know about my experiences [Front-End Developer | Dio Campus Expert. I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.](Front-End Developer | Dio Campus Expert. I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.)
+- 📄 Know about my experiences [Front-End Developer | Dio Campus Expert. I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
