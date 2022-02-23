@@ -39,9 +39,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&locale=en&layout=compact" alt="lucasf5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&locale=en" alt="lucasf5" /></p>
+<section align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&locale=en&layout=compact" alt="lucasf5" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&locale=en" alt="lucasf5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&" alt="lucasf5" /></p>
+</section>
