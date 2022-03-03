@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferreira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasf5&theme=dracula" alt="lucasf5" /></a> </p>
-
 - 🔭 I’m currently working on [my portfolio](https://github.com/lucasf5/Portifolio)
 
 - 🌱 I’m currently learning **Full Stack Development at Trybe and at Boticário**
