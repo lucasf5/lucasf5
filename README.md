@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferreira</h1>
-
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img src="https://i.imgur.com/waxVImv.png" align="center">
 
 <br><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<br><br><br>
-<p align="center"> 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<br><br>
+<h3 align="center"> 
   More than 1 year creating and solving bugs!
-</p>
-<p align="center">
-  Front-End Developer | Dio Campus Expert. I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.
-</p>
+</h3>
+<h3 align="center">
+  Front-End Developer | Dio Campus Expert. <br>
+  I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.
+</h3>
+  <h3 align="center"><a align="center" href="https://lucasf5.github.io/Portifolio/" target="blank">Portfolio</a></h3>
 
 <p align="left">
 <img src="https://i.imgur.com/waxVImv.png" align="center">
