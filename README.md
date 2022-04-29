@@ -11,7 +11,7 @@
   Front-End Developer | Dio Campus Expert. <br>
   I am an engineering student at the Federal University of Ceará. I am also a Software Engineering student.
 </h3>
-  <h3 align="center"><a align="center" target="_blank" href="https://lucasf5.github.io/Portifolio/" target="blank">Portfolio</a></h3>
+  <h3 align="center"><a align="center" target="_blank" href="https://lucasf5.github.io/Portfolio/" target="blank">Portfolio</a></h3>
 
 <p align="left">
 <img src="https://i.imgur.com/waxVImv.png" align="center">
