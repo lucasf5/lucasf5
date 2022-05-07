@@ -6,7 +6,7 @@ I'm Front-End Developer.
 
 <sup>*_WakaTime started counting from Nov 11 2021_</sup>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfpnt/)](https://www.linkedin.com/in/lucasfpnt/) [![Gmail Badge](https://img.shields.io/badge/-lucasfpnt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfpnt@gmail.com)](mailto:ihenrits@gmail.com) [![wakatime](https://wakatime.com/badge/user/aee21ad7-c3b0-4275-bbf9-9a934c5de781.svg)](https://wakatime.com/@aee21ad7-c3b0-4275-bbf9-9a934c5de781)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfpnt/)](https://www.linkedin.com/in/lucasfpnt/) [![Gmail Badge](https://img.shields.io/badge/-lucasfpnt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasfpnt@gmail.com)](mailto:lucasfpnt@gmail.com) [![wakatime](https://wakatime.com/badge/user/aee21ad7-c3b0-4275-bbf9-9a934c5de781.svg)](https://wakatime.com/@aee21ad7-c3b0-4275-bbf9-9a934c5de781)
 
 <code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
