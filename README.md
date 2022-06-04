@@ -1,4 +1,4 @@
-<h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 <h2>I'm Lucas Ferreira!</h2>
 
