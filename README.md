@@ -1,7 +1,7 @@
 <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 <h2>My name is Lucas Ferreira</h2>
-<h2>I'm Full Stack Developer</h2>
+<p>I'm Full Stack Developer</p>
 
 <sup>*_WakaTime started counting from Nov 11 2021_</sup>
 
@@ -26,11 +26,11 @@
 <code><img height="20" title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-I'm passionate about JavaScript, TypeScript, React and everything that involves these technologies.
+I'm passionate about TypeScript, React and everything that involves these technologies.
 
-My main skill is using React and React.JS. I'm a great enthusiast NodeJS too.
+My main skill is using Next.js and Typescript.
 
-I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React.
+I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React and Node.
 
 ---
 <section align="center">
