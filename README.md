@@ -1,6 +1,7 @@
 <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<h2>My name is Lucas Ferreira and I'm Full Stack Developer</h2>
+<h2>My name is Lucas Ferreira</h2>
+<h2>I'm Full Stack Developer</h2>
 
 <sup>*_WakaTime started counting from Nov 11 2021_</sup>
 
