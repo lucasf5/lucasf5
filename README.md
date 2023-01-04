@@ -2,7 +2,7 @@
 
 <h2>I'm Lucas Ferreira!</h2>
 
-I'm Front-End Developer.
+I'm Full-Stack Developer.
 
 <sup>*_WakaTime started counting from Nov 11 2021_</sup>
 
