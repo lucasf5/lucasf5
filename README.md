@@ -26,12 +26,10 @@
 <code><img height="20" title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-I'm passionate about TypeScript, React and everything that involves these technologies.
+Full Stack Developer na NSH Technologies. 
 
-My main skill is using Next.js and Typescript.
-
-I am also certified in the [Rocketseat Ignite](https://rocketseat.com.br/ignite) course, focused on React and Node.
-
+Tenho habilidades em várias tecnologias front-end, incluindo React.JS, NextJS, JavaScript, Typescript e frameworks CSS. Também possuo conhecimentos em gerenciamento de estado, testes unitários, controle de versões e metodologias ágeis. 
+Com experiência em back-end utilizando Node.JS, Golang, Python e Django, além de conhecimentos em banco de dados SQL, PostgreSQL e MongoDB e administração de ambientes isolados com Docker. 
 ---
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
