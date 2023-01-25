@@ -26,10 +26,10 @@
 <code><img height="20" title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-Full Stack Developer na NSH Technologies. 
+<p>Tenho habilidades em várias tecnologias front-end, incluindo React.JS, NextJS, JavaScript, Typescript e frameworks CSS. </p> 
+<p>Também possuo conhecimentos em gerenciamento de estado, testes unitários, controle de versões e metodologias ágeis. </p>
 
-Tenho habilidades em várias tecnologias front-end, incluindo React.JS, NextJS, JavaScript, Typescript e frameworks CSS. Também possuo conhecimentos em gerenciamento de estado, testes unitários, controle de versões e metodologias ágeis. 
-Com experiência em back-end utilizando Node.JS, Golang, Python e Django, além de conhecimentos em banco de dados SQL, PostgreSQL e MongoDB e administração de ambientes isolados com Docker. 
+<p>Com experiência em back-end utilizando Node.JS, Golang, Python e Django, além de conhecimentos em banco de dados SQL, PostgreSQL e MongoDB e administração de ambientes isolados com Docker.</p>
 ---
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
