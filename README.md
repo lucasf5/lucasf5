@@ -30,7 +30,7 @@
 <p>Também possuo conhecimentos em gerenciamento de estado, testes unitários, controle de versões e metodologias ágeis. </p>
 
 <p>Com experiência em back-end utilizando Node.JS, Golang, Python e Django, além de conhecimentos em banco de dados SQL, PostgreSQL e MongoDB e administração de ambientes isolados com Docker.</p>
----
+
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /></p>
