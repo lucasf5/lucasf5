@@ -1,7 +1,6 @@
 <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 <h2>My name is Lucas Ferreira</h2>
-<p>I'm Full Stack Developer</p>
 
 <sup>*_WakaTime started counting from Nov 11 2021_</sup>
 
@@ -26,11 +25,11 @@
 <code><img height="20" title="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<p>Hi there! I'm a Full Stack Developer at NSH Technologies, where I work on international projects using ReactJS and NodeJS.</p>
+<p>Hi there! I'm a <strong>Full Stack Developer</strong> at NSH Technologies, where I work on <strong>international projects</strong> using ReactJS and NodeJS.</p>
 
-<p>I have a diverse skill set in front-end technologies, including NextJS, React.JS, JavaScript, Typescript, CSS frameworks (Bootstrap, Tailwind, and Bulma), design frameworks (Material UI, React Bootstrap, and Atomize), CSS Preprocessors (SASS, LESS), and HTML5/CSS3 (responsive design, Flexbox, and Grid layout). I am also proficient in state management with Context and Redux, unit testing, version control (Git) and Gitflow, and agile methodologies.</p>
+<p>I have a diverse skill set in <strong>front-end</strong> technologies, including NextJS, React.JS, JavaScript, Typescript, CSS frameworks (Bootstrap, Tailwind, and Bulma), design frameworks (Material UI, React Bootstrap, and Atomize), CSS Preprocessors (SASS, LESS), and HTML5/CSS3 (responsive design, Flexbox, and Grid layout). I am also proficient in state management with Context and Redux, unit testing, version control (Git) and Gitflow, and agile methodologies.</p>
 
-<p>In the back-end, I have experience and knowledge in Node.JS using the Express framework, Golang, Python, and Django. I also have experience in SQL, PostgreSQL, and MongoDB databases, ORM with Sequelize and GORM, and Docker for creating and managing isolated environments.</p>
+<p>In the <strong>back-end</strong>, I have experience and knowledge in Node.JS using the Express framework, Golang, Python, and Django. I also have experience in SQL, PostgreSQL, and MongoDB databases, ORM with Sequelize and GORM, and Docker for creating and managing isolated environments.</p>
 
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
