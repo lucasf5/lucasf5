@@ -29,7 +29,7 @@
 
 <p>I have a diverse skill set in <strong>front-end</strong> technologies, including NextJS, React.JS, JavaScript, Typescript, CSS frameworks (Bootstrap, Tailwind, and Bulma), design frameworks (Material UI, React Bootstrap, and Atomize), CSS Preprocessors (SASS, LESS), and HTML5/CSS3 (responsive design, Flexbox, and Grid layout). I am also proficient in state management with Context and Redux, unit testing, version control (Git) and Gitflow, and agile methodologies.</p>
 
-<p>In the <strong>back-end</strong>, I have experience and knowledge in Node.JS using the Express framework, Golang, Python, and Django. I also have experience in SQL, PostgreSQL, and MongoDB databases, ORM with Sequelize and GORM, and Docker for creating and managing isolated environments.</p>
+<p>In the <strong>back-end</strong>, I have experience and knowledge in Node.JS using the Express framework, Golang, Python, and Django. I also have experience in SQL, PostgreSQL, and MongoDB databases, ORM with Sequelize and GORM, and Docker for creating and managing isolated environments and create API's using rest, grpc and graphql.</p>
 
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
