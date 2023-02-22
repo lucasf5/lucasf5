@@ -32,6 +32,7 @@
 <p>In the <strong>back-end</strong>, I have experience and knowledge in Node.JS using the Express framework, Golang, Python, and Django. I also have experience in SQL, PostgreSQL, and MongoDB databases, ORM with Sequelize and GORM, Docker for creating and managing isolated environments and create API's using rest, grpc and graphql.</p>
 
 <section align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" min-width="400px" max-width="400px" width="400px" alt="lucasf5" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&langs_count=8&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical" width="auto" alt="lucasf5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" width="auto" alt="lucasf5" /></p>
 </section>
