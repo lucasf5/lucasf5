@@ -43,8 +43,8 @@
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&langs_count=8&show_icons=true&theme=radical&layout=compact" alt="lucasf5" />
   </p>
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: nowrap">
-    <img style="min-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical"  alt="lucasf5" />
-    <img style="min-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" alt="lucasf5" />
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical"  alt="lucasf5" />
+    <img style="width: 400px;" src="https://github-readme-streak-stats.herokuapp.com?user=lucasf5&theme=radical"  alt="lucasf5" />
   </div>
 </section>
