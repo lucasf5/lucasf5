@@ -33,6 +33,8 @@
 
 <section align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasf5&langs_count=8&show_icons=true&theme=radical&layout=compact" alt="lucasf5" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical" max-width="400px" height="auto"  alt="lucasf5" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" max-width="400px" height="auto" alt="lucasf5" /></p>
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%">
+    <img style="min-width: 400px; width: 45%" src="https://github-readme-stats.vercel.app/api?username=lucasf5&show_icons=true&theme=radical"  alt="lucasf5" />
+    <img style="min-width: 400px; width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasf5&theme=radical" alt="lucasf5" />
+  </div>
 </section>
