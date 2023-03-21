@@ -1,6 +1,6 @@
 <h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
-<img align="right" src="imagens/my_octocat2.png" alt="My octocat" width="250px">
+<img align="right" src="images/octocat.png" alt="My octocat" width="250px">
 
 ```JavaScript
 const aboutMe = {
