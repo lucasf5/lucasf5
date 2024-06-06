@@ -1,25 +1,3 @@
-<h1>Hey! <img src="https://raw.githubusercontent.com/tavareshenrique/tavareshenrique/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-
-<img align="right" src="images/octocat.png" alt="My octocat" width="250px">
-
-```JavaScript
-const aboutMe = {
-  name: 'Lucas Ferreira',
-  age: '26 years old';
-  softSkills: [
-    'creativity',
-    'leadership',
-    'organization'
-  ]
-};
-
-function contatcMe() {
-  return 'Linkedin: https://www.linkedin.com/in/lucasfpnt';
-}
-```
-
-<br>
-:us:
 <p>Hi there! I'm a <strong>Full Stack Developer</strong> at NSH Technologies, where I work on <strong>international projects</strong> using ReactJS and NodeJS.</p>
 
 <p>I have a diverse skill set in <strong>front-end</strong> technologies, including NextJS, React.JS, JavaScript, Typescript, CSS frameworks (Bootstrap, Tailwind, and Bulma), design frameworks (Material UI, React Bootstrap, and Atomize), CSS Preprocessors (SASS, LESS), and HTML5/CSS3 (responsive design, Flexbox, and Grid layout). I am also proficient in state management with Context and Redux, unit testing, version control (Git) and Gitflow, and agile methodologies.</p>
