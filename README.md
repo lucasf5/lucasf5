@@ -2,7 +2,7 @@ Desenvolvedor Full Stack experiente com paixão por criar soluções escaláveis
 
 Experiência:
 
-Desenvolvedor Full Stack | NSH Technologies
+Desenvolvedor Full Stack
 Atuo em projetos internacionais desafiadores que exigem expertise em ReactJS e NodeJS.
 Utilizo as melhores práticas de desenvolvimento para garantir que meus projetos sejam eficientes, robustos e prontos para o futuro.
 Colaboro com equipes multidisciplinares para alcançar os objetivos do projeto.
