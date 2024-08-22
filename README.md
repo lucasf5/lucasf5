@@ -1,35 +1,42 @@
-Desenvolvedor Full Stack experiente com paixão por criar soluções escaláveis ​​e de alta performance utilizando as melhores práticas de desenvolvimento e as tecnologias mais recentes. Atua em projetos internacionais desafiadores com expertise em ReactJS e NodeJS. Busca constantemente aprimorar suas habilidades e compartilhar conhecimento com a comunidade.
+Sou desenvolvedor Full Stack com mais de 6 anos de experiência, apaixonado por criar soluções escaláveis, de alta performance e com foco em qualidade. Ao longo da minha carreira, participei de projetos internacionais desafiadores, sempre buscando utilizar as melhores práticas de desenvolvimento e as tecnologias mais recentes. Com expertise em ReactJS e NodeJS, estou em constante evolução, aprimorando minhas habilidades e compartilhando conhecimento com a comunidade.
 
-Experiência:
-
-Desenvolvedor Full Stack
-Atuo em projetos internacionais desafiadores que exigem expertise em ReactJS e NodeJS.
-Utilizo as melhores práticas de desenvolvimento para garantir que meus projetos sejam eficientes, robustos e prontos para o futuro.
-Colaboro com equipes multidisciplinares para alcançar os objetivos do projeto.
-
-Habilidades:
+Habilidades Técnicas:
 
 Front-end:
-- Next.js, React.js, JavaScript, TypeScript
-- Frameworks CSS: Bootstrap, Tailwind CSS, Bulma
-- Frameworks de design: Material UI, React Bootstrap, Atomize
-- Pré-processadores CSS: SASS, LESS
-- HTML5/CSS3: Design responsivo, Flexbox, layout de grade
-Gerenciamento de estado: Redux
+
+- Frameworks e Bibliotecas: React.js, Next.js, JavaScript (ES6+), TypeScript
+- Estilização: Tailwind CSS, Bootstrap, Bulma, SASS, LESS, Styled-Components
+- Design Systems: Material UI, React Bootstrap, Atomize
+- Web Standards: HTML5, CSS3, Design Responsivo
+- Gerenciamento de Estado: Redux, Zustand, Context API
 
 Back-end:
-- Node.js (Express)
-- Golang
-- Python (Django)
-- Bancos de dados: SQL, PostgreSQL, MongoDB
-- ORM: Sequelize, GORM
-- Docker: Criação e gerenciamento de ambientes isolados
-APIs: REST, GRPC, GraphQL
+
+- Linguagens e Frameworks: Node.js (Express, NestJS, Fastify), Golang, Python (Django)
+- APIs: REST, GraphQL, GRPC, WebSockets
+- Bancos de Dados: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+- ORMs e ODMs: Sequelize, Prisma, TypeORM, GORM
+- Autenticação e Autorização: JWT, OAuth, Passport.js
+
+Princípios e Arquitetura de Software:
+
+- SOLID: Aplicação de princípios para código limpo e de fácil manutenção
+- Domain-Driven Design (DDD): Estruturação de domínios complexos
+- Clean Architecture: Criação de arquiteturas escaláveis e modulares
+- Microservices: Desenvolvimento de serviços desacoplados e independentes
+- CQRS e Event Sourcing: Implementação de padrões avançados para sistemas complexos
+
+DevOps e Infraestrutura:
+
+- Contêineres e Orquestração: Docker, Docker Compose, Kubernetes
+- Integração e Entrega Contínua (CI/CD): GitHub Actions, Jenkins, Git
 
 Outras habilidades:
-- Testes unitários e de integração
-- Controle de versão (Git) e Gitflow
-- Metodologias ágeis
+
+- Controle de versão: Git, Gitflow, Monorepo (Nx, Lerna)
+- Metodologias ágeis: Scrum, Kanban, Lean
+- Documentação: Swagger, OpenAPI, Postman
+- Ferramentas de Desenvolvimento: VSCode, WebStorm, Docker Compose
 <br>
 
 <sup>*WakaTime started counting from Nov 11 2021</sup>
